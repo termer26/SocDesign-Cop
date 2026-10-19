@@ -1,0 +1,9 @@
+COMMAND: /mnt/g/0_TEMP/7_SocDesign/SocDesign-Cop/C_work/build/soc_20261019_213822/obj_dir/Vtb_e203_ffn_soc +FW_WORDS=166 +LOAD_WORDS=11872
+E203_FIRMWARE_LOADED ticks=720
+E203_BOOT_PASS pc=a007007c firmware_words=166
+E203_JOB_PASS job=0 layer=0 outputs=25344 core_cycles=5343132 window_cycles=5426840 checksum=394a81b5
+E203_SOC_ALL_PASS jobs=1 outputs=25344
+- /mnt/g/0_TEMP/7_SocDesign/SocDesign-Cop/C_work/tb/tb_e203_ffn_soc.sv:127: Verilog $finish
+- S i m u l a t i o n   R e p o r t: Verilator 5.49
+- Verilator: $finish at 44ms; walltime 233.367 s; speed 189.200 us/s
+- Verilator: cpu 232.774 s on 1 threads; allocated 9 MB

@@ -1,0 +1,18 @@
+{
+  "e203": {
+    "url": "https://github.com/riscv-mcu/e203_hbirdv2.git",
+    "commit": "9f3e34f337f5d0a1236a285871ffa2032491617a",
+    "license": "Apache-2.0",
+    "path": "vendor/e203_hbirdv2"
+  },
+  "verilator_linux_x64": {
+    "version": "5.48.0",
+    "url": "https://files.pythonhosted.org/packages/39/50/32165e006e35b647c8ea105e8ba1ef76c362ea35f645e2a55357a13ec236/verilator-5.48.0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+    "sha256": "37c4baba6a268f6e0a15b4917dbbc45dcf23ddea1498d059f8259a34072ac427"
+  },
+  "zig_windows_x64": {
+    "version": "0.13.0",
+    "url": "https://files.pythonhosted.org/packages/e0/0c/66f4710aedf5544e15779ff9c6e770322986e15daf9299b1a4df0be19e09/ziglang-0.13.0-py3-none-win_amd64.whl",
+    "sha256": "b64b2aa936ebbfeecfbb2611df331a5474edebe1246b98c2f56d6ae4d58b71fc"
+  }
+}

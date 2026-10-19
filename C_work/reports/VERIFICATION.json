@@ -1,0 +1,34 @@
+{
+  "status": "PASS",
+  "scope": "Public E203 reference SoC integration; not official platform or ASIC signoff",
+  "full_matrix_layers": [
+    0
+  ],
+  "full_matrix_outputs": 25344,
+  "layer_switch_dimensions": [
+    3,
+    64,
+    5
+  ],
+  "layer_switch_layers": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "layer_switch_outputs": 180,
+  "interface_unit": "PASS",
+  "upstream_commit": "9f3e34f337f5d0a1236a285871ffa2032491617a",
+  "A_B_sources_modified": false,
+  "official_platform_verified": false,
+  "asic_sram_verified": false,
+  "asic_timing_area_power_verified": false
+}

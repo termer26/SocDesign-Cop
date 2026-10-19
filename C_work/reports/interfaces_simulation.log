@@ -1,0 +1,3 @@
+COMMAND: vvp -N unit.vvp
+C_INTERFACES_PASS packing=16/40/16 waits=1 response_backpressure=1 errors=1 csr=1 reset=1
+G:\0_TEMP\7_SocDesign\SocDesign-Cop\C_work\tb\tb_c_interfaces.sv:144: $finish called at 2830000 (1ps)

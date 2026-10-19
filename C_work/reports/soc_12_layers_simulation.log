@@ -1,0 +1,20 @@
+COMMAND: /mnt/g/0_TEMP/7_SocDesign/SocDesign-Cop/C_work/build/soc_20261019_213825/obj_dir/Vtb_e203_ffn_soc +FW_WORDS=184 +LOAD_WORDS=266
+E203_FIRMWARE_LOADED ticks=792
+E203_BOOT_PASS pc=a007007c firmware_words=184
+E203_JOB_PASS job=0 layer=0 outputs=15 core_cycles=6854 window_cycles=9307 checksum=0004022f
+E203_JOB_PASS job=1 layer=1 outputs=15 core_cycles=6859 window_cycles=9299 checksum=0008a2fc
+E203_JOB_PASS job=2 layer=2 outputs=15 core_cycles=6854 window_cycles=9307 checksum=0008e8c7
+E203_JOB_PASS job=3 layer=3 outputs=15 core_cycles=6859 window_cycles=9299 checksum=0007f5e1
+E203_JOB_PASS job=4 layer=4 outputs=15 core_cycles=6854 window_cycles=9307 checksum=0007ee72
+E203_JOB_PASS job=5 layer=5 outputs=15 core_cycles=6859 window_cycles=9299 checksum=000608d6
+E203_JOB_PASS job=6 layer=6 outputs=15 core_cycles=6854 window_cycles=9307 checksum=000afdb3
+E203_JOB_PASS job=7 layer=7 outputs=15 core_cycles=6859 window_cycles=9299 checksum=0005ff69
+E203_JOB_PASS job=8 layer=8 outputs=15 core_cycles=6854 window_cycles=9307 checksum=0008ff40
+E203_JOB_PASS job=9 layer=9 outputs=15 core_cycles=6859 window_cycles=9299 checksum=0007bdc2
+E203_JOB_PASS job=10 layer=10 outputs=15 core_cycles=6854 window_cycles=9307 checksum=0006c8df
+E203_JOB_PASS job=11 layer=11 outputs=15 core_cycles=6859 window_cycles=9299 checksum=00050916
+E203_SOC_ALL_PASS jobs=12 outputs=180
+- /mnt/g/0_TEMP/7_SocDesign/SocDesign-Cop/C_work/tb/tb_e203_ffn_soc.sv:127: Verilog $finish
+- S i m u l a t i o n   R e p o r t: Verilator 5.49
+- Verilator: $finish at 826us; walltime 4.550 s; speed 184.077 us/s
+- Verilator: cpu 4.486 s on 1 threads; allocated 10 MB
